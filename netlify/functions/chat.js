@@ -1,7 +1,7 @@
 // Netlify Function: proxies requests to Groq without exposing your key.
 // Update ALLOWED_ORIGINS to your GitHub Pages origin.
 const ALLOWED_ORIGINS = [
-  "https://inkflowstudio.github.io/InkTalk/",
+  "https://inkflowstudio.github.io",
   "http://localhost:5173",
   "http://127.0.0.1:5500",
   "http://localhost:5500"
